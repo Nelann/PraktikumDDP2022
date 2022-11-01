@@ -8,8 +8,6 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-venv/
-.config/
 .upm/
 .Python
 build/
@@ -172,3 +170,5 @@ replit.nix
 
 poetry.lock
 pyproject.toml
+.config/
+.breakpoints
